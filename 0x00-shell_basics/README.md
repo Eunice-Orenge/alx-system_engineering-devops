@@ -1,1 +1,1 @@
-Moves html files
+Removes files ending with ~
