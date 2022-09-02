@@ -1,1 +1,1 @@
-Permissions allowed to other users except owner and groups
+Sets the mode to -rwxr-x-wx
