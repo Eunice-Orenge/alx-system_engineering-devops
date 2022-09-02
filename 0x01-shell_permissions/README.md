@@ -1,1 +1,1 @@
-Script that changes the group owner to school
+changes the owner to vincent and the group owner to staff
