@@ -1,1 +1,1 @@
-Prints username of current user
+Prints groups
