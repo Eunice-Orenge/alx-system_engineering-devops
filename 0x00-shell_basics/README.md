@@ -1,1 +1,1 @@
-Copies html files
+Moves html files
