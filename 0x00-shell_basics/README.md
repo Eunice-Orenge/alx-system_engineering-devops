@@ -1,1 +1,1 @@
-Removes files ending with ~
+Creates directories
