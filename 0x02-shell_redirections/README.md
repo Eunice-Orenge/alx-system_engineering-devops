@@ -1,1 +1,1 @@
-Displaying the first 10 lines
+Printing the third line
